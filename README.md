@@ -1,0 +1,2 @@
+# pyrishi
+Python experimantation
